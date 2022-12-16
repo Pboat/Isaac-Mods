@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1" deathanm2="gfx/Stink Eye Menu.anm2">
+	<passive cache="firedelay tearflag" name="The Stink Eye" description="Bob's Glare" gfx="StinkEye.png"  tags="bob summonable tearsup offensive" quality="3"  id ="0"/>
+</items>

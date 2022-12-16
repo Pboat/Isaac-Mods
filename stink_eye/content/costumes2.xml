@@ -1,0 +1,4 @@
+<costumes anm2root="gfx/characters/">
+	<costume id = "stinkeye" anm2path="stinkeye.anm2" type="passive"/>
+	</costume>
+</costumes>

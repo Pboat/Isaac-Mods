@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Bad EGG</name>
+    <directory>bad_egg</directory>
+    <id>2638838678</id>
+    <description>[h1]Glitch Reroll! [/h1]
+Introducing the Bad EGG!!! Visit your local [HIDDEN &amp; CURSED] room to find this item! Use it on your favorite pedestal it will turn into a glitch item, just like your best friend TMTRAINER would. Experience 6̴͉̕4̶̂ͅ3̴̯̂0̸̯͘4̵̢̋6̷̞͝0̵̻̑4̷̬̍ combinations of effects, and let the chaos unfold!
+
+Every time you use the EGG, the charge time will change. Something special happens if you use the red EGG. Some say it [ERROR! INVALID CHECKSUM] [spoiler]It spawns ???.[/spoiler]
+
+Comes with External Item Descriptions and Encyclopedia support.
+
+Special Thanks:
+-Kitten Chilly, for making Runic Geode, whose code I looked at to understand how to make an active item. Click  [url=steamcommunity.com/sharedfiles/filedetails/?id=2558437969] here [/url] to see the item's workshop page.
+-im_tem, (from the Modding of Isaac discord), for providing the code to [spoiler]spawn a player familiar.[/spoiler]</description>
+    <version>1.6</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Familiars"/>
+</metadata>

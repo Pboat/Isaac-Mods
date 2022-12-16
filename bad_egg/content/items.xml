@@ -1,0 +1,7 @@
+<items gfxroot="gfx/items/" version="1" deathanm2="gfx/Bad Egg Menu.anm2">
+	<active name="Bad EGG" description="It's making sounds! IT's about to [REROLL]" gfx="BadEgg.png" maxcharges="6" tags="nocantrip offensive" quality="2" id ="0" />
+	<active name="bad egg" description="It looks like this EGG will take a long time to *eroi6tu>w4vp0965" gfx="BadEgg1.png" maxcharges="2" tags="nocantrip offensive" quality="0" hidden = "true" id ="0"/>
+	<active name="D EGG" description="IT MOVES occasionally. It should                    soon" gfx="BadEgg2.png" maxcharges="3" tags="nocantrip offensive" quality="0" hidden = "true" id ="0"/>
+	<active name="BadEGGgabag" description="What will hatch from this? What will hatch from this? What will hatch from this? What will hatch from this? What will hatch from this? What will hatch from this? What will hatch fr$%rrrrrrrRRREROLL!" gfx="BadEgg3.png" maxcharges="4" tags="nocantrip offensive" quality="0" hidden = "true" id ="0"/>
+	<active name="egg" description="You used the Egg." gfx="BadEgg4.png" maxcharges="12" tags="nocantrip offensive" quality="3" hidden = "true" id ="0"/>
+</items>

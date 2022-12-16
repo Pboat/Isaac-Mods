@@ -1,0 +1,18 @@
+<ItemPools>
+	<Pool Name="secret">
+		<Item Name="Bad EGG" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+
+	<Pool Name="curse">
+		<Item Name="Bad EGG" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+
+	<Pool Name="greedCurse">
+		<Item Name="Bad EGG" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+
+	<Pool Name="greedSecret">
+		<Item Name="Bad EGG" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+
+</ItemPools>

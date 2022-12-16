@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>The Stink Eye</name>
+    <directory>stink_eye</directory>
+    <id>2628118870</id>
+    <description>[h1]A New Tear Effect![/h1]
+The Stink Eye is a passive item that gives your tears a chance to burst into poisonous clouds of gas, the same as the ones used by Jupiter! Enemies caught in the cloud get poisoned and take damage from the cloud itself, making it great for clearing out rooms. The size of the cloud scales with your damage, so you can hit more enemies. 
+
+This item also gives you a small tears up, as well as spectral tears. This item even contributes to the Bob transformation! You can find this item in the treasure room and from rotten beggars.
+
+[h1]Synergies[/h1]
+This item synergizes with several other items, including:
+-Brimstone
+-The Ludovico Technique
+-Dr. Fetus
+-Epic Fetus
+-Haemolacria
+-Uranus
+-and many more!
+
+This item also supports External Item Descriptions and the Encyclopedia mod.
+
+[h1]Special thanks to:[/h1]
+-Lytebringer: for getting me started with modding Isaac with his great tutorial series on youtube.
+-BrownShapiro/Billie Irish: for making the item &quot;Tech-R&quot;, which served as a foundation for this mod. That item is part of a pack called &quot;Brown Shapiro's Addons&quot;, which I suggest you check out.
+-Wofsauge: for making a user friendly version of the Isaac lua documentation, which made making this way easier.
+-Meowlala: for providing a solution to the tear flag bug
+-The Isaac Discord!
+
+If there's any questions you have, feel free to comment them down below, and I'll try to answer them. If you have a bug to report, let me know.
+
+I hope you have fun with this new tear effect!</description>
+    <version>1.5</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>
